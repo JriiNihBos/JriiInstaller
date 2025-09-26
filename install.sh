@@ -13,7 +13,7 @@ display_welcome() {
   echo -e "${BLUE}[+] =============================================== [+]${NC}"
   echo -e "${BLUE}[+]                                                 [+]${NC}"
   echo -e "${BLUE}[+]                AUTO INSTALLER THEMA             [+]${NC}"
-  echo -e "${BLUE}[+]                  © @naeldev                [+]${NC}"
+  echo -e "${BLUE}[+]                  © THE KING JRII                [+]${NC}"
   echo -e "${BLUE}[+]                                                 [+]${NC}"
   echo -e "${RED}[+] =============================================== [+]${NC}"
   echo -e ""
@@ -21,9 +21,9 @@ display_welcome() {
   echo -e "dilarang keras untuk dikasih gratis."
   echo -e ""
   echo -e "𝗧𝗘𝗟𝗘𝗚𝗥𝗔𝗠 :"
-  echo -e "@naeldev"
+  echo -e "@BuronanKelasKakap"
   echo -e "𝗖𝗥𝗘𝗗𝗜𝗧𝗦 :"
-  echo -e "@naeldev"
+  echo -e "@BuronanKelasKakap"
   sleep 4
   clear
 }
@@ -56,19 +56,19 @@ install_jq() {
 check_token() {
   echo -e "                                                       "
   echo -e "${BLUE}[+] =============================================== [+]${NC}"
-  echo -e "${BLUE}[+]               LICENCE NAEL DEV            [+]${NC}"
+  echo -e "${BLUE}[+]               LICENCE THE KING JRII             [+]${NC}"
   echo -e "${BLUE}[+] =============================================== [+]${NC}"
   echo -e "                                                       "
   echo -e "${YELLOW}MASUKAN AKSES TOKEN :${NC}"
   read -r USER_TOKEN
 
-  if [ "$USER_TOKEN" = "naelganteng" ]; then
+  if [ "$USER_TOKEN" = "JriiTheKing" ]; then
     echo -e "${GREEN}AKSES BERHASIL${NC}}"
   else
-    echo -e "${GREEN}Buy dulu Gih Ke @naeldev${NC}"
-    echo -e "${YELLOW}TELEGRAM : @naeldev${NC}"
+    echo -e "${GREEN}Buy dulu Gih Ke @BuronanKelasKakal${NC}"
+    echo -e "${YELLOW}TELEGRAM : @BuronanKelasKakap${NC}"
     echo -e "${YELLOW}HARGA TOKEN : 25K FREE UPDATE JIKA ADA TOKEN BARU${NC}"
-    echo -e "${YELLOW}©naeldev${NC}"
+    echo -e "${YELLOW}© THE KING JRII${NC}"
     exit 1
   fi
   clear
@@ -451,11 +451,11 @@ while true; do
   echo -e "${BLUE}  ,ggggg        gggggggg.                                 ${NC}"
   echo -e "${BLUE} ,ggg'               'ggg.                                ${NC}"
   echo -e "${BLUE}',gg       ,ggg.      'ggg:                               ${NC}"
-  echo -e "${BLUE}'ggg      ,gg'''  .    ggg       Auto Installer @naeldev Private   ${NC}"
+  echo -e "${BLUE}'ggg      ,gg'''  .    ggg       Auto Installer The King Jrii Private   ${NC}"
   echo -e "${BLUE}gggg      gg     ,     ggg      ------------------------  ${NC}"
-  echo -e "${BLUE}ggg:     gg.     -   ,ggg       • Telegram : t.me/naeldev     ${NC}"
-  echo -e "${BLUE} ggg:     ggg._    _,ggg        • Creadit  : @naeldev ${NC}"
-  echo -e "${BLUE} ggg.    '.'''ggggggp           • Support by @naeldev  ${NC}"
+  echo -e "${BLUE}ggg:     gg.     -   ,ggg       • Telegram : t.me/BuronanKelasKakap     ${NC}"
+  echo -e "${BLUE} ggg:     ggg._    _,ggg        • Creadit  : @BuronanKelasKakap ${NC}"
+  echo -e "${BLUE} ggg.    '.'''ggggggp           • Support by @BuronanKelasKakap  ${NC}"
   echo -e "${BLUE}  'ggg    '-.__                                           ${NC}"
   echo -e "${BLUE}    ggg                                                   ${NC}"
   echo -e "${BLUE}      ggg                                                 ${NC}"
